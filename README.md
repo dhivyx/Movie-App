@@ -30,4 +30,4 @@ npm start
 
 🔗 API Reference
 
-TMDb API
+TMDb API: https://developer.themoviedb.org/
